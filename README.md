@@ -12,3 +12,8 @@ bla bla
 bla bla 
 ## How to COntribute 
 BLA BLAAAAAAAAA
+
+
+### Copyright 
+
+JASKS
