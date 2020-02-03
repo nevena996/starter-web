@@ -2,6 +2,8 @@
 
 ADDING A LINE
 dodato nesto bezvezeeeeee
+
+More changes 
 ## Introduction 
  bla bla
 ## Purpose
